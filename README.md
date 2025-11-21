@@ -85,16 +85,13 @@ Final-year student at the **School of Electrical and Computer Engineering** in B
 ---
 
 ### 💼 Soft Skills
-```javascript
-const skills = {
-  learning: "Fast learner with strong adaptation abilities",
-  attention: "Detail-oriented approach to problem-solving",
-  teamwork: "Effective collaborator in team environments",
-  communication: "Clear and professional communication",
-  timeManagement: "Organized and deadline-driven",
-  adaptability: "Quick to adjust to new technologies and workflows"
-};
-```
+
+**🚀 Fast learner** – strong ability to adapt quickly
+**🔍 Detail-oriented** – careful and precise problem-solving approach
+**🤝 Teamwork** – effective collaborator in group environments
+**💬 Communication** – clear and professional communication
+**⏱️ Time management** – organized and able to meet deadlines
+**🔄 Adaptability** – quickly adjust to new tools, technologies, and workflows
 
 ---
 
@@ -125,3 +122,4 @@ const skills = {
 
 📍 Belgrade, Serbia
 
+---
